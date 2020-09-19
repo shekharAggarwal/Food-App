@@ -1,0 +1,103 @@
+{
+  "Category": [
+    {
+      "categoryId": "0",
+      "id": "1",
+      "itemCount": "45",
+      "itemImage": "assets/images/coffee-cup.png",
+      "itemName": "Coffee"
+    },
+    {
+      "categoryId": "1",
+      "id": "2",
+      "itemCount": "45",
+      "itemImage": "assets/images/beer.png",
+      "itemName": "Coffee"
+    }
+  ],
+  "FoodItem": [
+    [
+      {
+        "categoryId": "0",
+        "discount": "5.00",
+        "id": "1",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/food-app-76664.appspot.com/o/coffee_190607-800x450.jpg?alt=media&token=3a86c537-b66a-4993-b30c-2ced31289651",
+        "name": "Coffee",
+        "price": "15.00",
+        "ratings": "0.0",
+        "type": "0"
+      },
+      {
+        "categoryId": "0",
+        "discount": "5.00",
+        "id": "2",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/food-app-76664.appspot.com/o/coffee_190607-800x450.jpg?alt=media&token=3a86c537-b66a-4993-b30c-2ced31289651",
+        "name": "Dark Coffee",
+        "price": "15.00",
+        "ratings": "0.0",
+        "type": "0"
+      },
+      {
+        "categoryId": "0",
+        "discount": "5.00",
+        "id": "3",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/food-app-76664.appspot.com/o/coffee_190607-800x450.jpg?alt=media&token=3a86c537-b66a-4993-b30c-2ced31289651",
+        "name": "Coffee",
+        "price": "15.00",
+        "ratings": "0.0",
+        "type": "0"
+      },
+      {
+        "categoryId": "0",
+        "discount": "5.00",
+        "id": "4",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/food-app-76664.appspot.com/o/coffee_190607-800x450.jpg?alt=media&token=3a86c537-b66a-4993-b30c-2ced31289651",
+        "name": "Coffee",
+        "price": "15.00",
+        "ratings": "0.0",
+        "type": "0"
+      },
+      {
+        "categoryId": "0",
+        "discount": "5.00",
+        "id": "5",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/food-app-76664.appspot.com/o/coffee_190607-800x450.jpg?alt=media&token=3a86c537-b66a-4993-b30c-2ced31289651",
+        "name": "Coffee",
+        "price": "15.00",
+        "ratings": "0.0",
+        "type": "0"
+      },
+      {
+        "categoryId": "0",
+        "discount": "5.00",
+        "id": "6",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/food-app-76664.appspot.com/o/coffee_190607-800x450.jpg?alt=media&token=3a86c537-b66a-4993-b30c-2ced31289651",
+        "name": "Coffee",
+        "price": "15.00",
+        "ratings": "0.0",
+        "type": "0"
+      }
+    ],[
+      {
+        "categoryId": "0",
+        "discount": "5.00",
+        "id": "1",
+        "imagePath": "https:/https://firebasestorage.googleapis.com/v0/b/food-app-76664.appspot.com/o/coffee_190607-800x450.jpg?alt=media&token=3a86c537-b66a-4993-b30c-2ced31289651",
+        "name": "Black Coffee",
+        "price": "15.00",
+        "ratings": "0.0",
+        "type": "0"
+      },
+      {
+        "categoryId": "0",
+        "discount": "5.00",
+        "id": "2",
+        "imagePath": "https://firebasestorage.googleapis.com/v0/b/food-app-76664.appspot.com/o/coffee_190607-800x450.jpg?alt=media&token=3a86c537-b66a-4993-b30c-2ced31289651",
+        "name": "Coffee",
+        "price": "15.00",
+        "ratings": "0.0",
+        "type": "0"
+      }
+    ]
+  ]
+}
